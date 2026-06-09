@@ -9,7 +9,7 @@ Day 1:
 
 Total time for writing and sketching ~ 1hour 
 
-Day 2:
+Day 2: ~ 3hrs
   Started CAD in onshape
   
     1) 4 todal part
@@ -19,7 +19,7 @@ Day 2:
 
   <img width="1920" height="1040" alt="Steper motor _ Part Studio 1 - Google Chrome 6_9_2026 1_34_14 PM" src="https://github.com/user-attachments/assets/111bdac0-0556-4310-8629-d435ccdb0d63" />
 
-Day 3:
+Day 3: ~ 4hrs
   Printed V1 and made changes for V2
   
     1)Sketched improvements for every piece
@@ -38,4 +38,18 @@ Day 3:
           1) Split into sections for easrier winding
 
 <img width="640" height="480" alt="image (1)" src="https://github.com/user-attachments/assets/88df8ae3-0a75-47ad-bc71-f652acf1d465" />
+
+Day 4: ~ 3 hours
+  Got V2 all printed and assenbled
+
+      1) realised that I need a gearbox for torque
+      2) designed a planatary gearbox with a 4-1 gear reduction
+      3) printed the gearbox
+      4) was informed by some peouple in the 3dp circlework that this wouldnt work
+      5) printed anyways and assemvbled 
+      6) it works 
+
+  <img width="1600" height="867" alt="image (3)" src="https://github.com/user-attachments/assets/904a1bf3-3f2d-4f51-b115-446e7d236516" />
+  <img width="1600" height="867" alt="image (2)" src="https://github.com/user-attachments/assets/54d7d30d-a2d3-4f8d-82a8-499f434ddf8e" />
+
 
