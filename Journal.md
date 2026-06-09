@@ -22,4 +22,20 @@ Day 2:
 Day 3:
   Printed V1 and made changes for V2
   
-    1) <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/9aa5ebb0-f602-4de4-94a2-1a938ddbd209" />
+    1)Sketched improvements for every piece
+        Rotor: 
+          1) make shaft longer and have a "D" profile
+          2) Make shafts 5mm in diamiter
+        Case:
+          1) Added lables for the coils 
+          2) added slot in bottom to connect coil groups
+          3) added text on sides to say HEX-17 and V2
+          4) increased bottom hole size to 5.1 mm
+        Top/lid
+          1) Changed hole diamater to 5.1 mm 
+          2) Increased m3 threaded insert holes to 3.2 mm for a better fit 
+        Coils
+          1) Split into sections for easrier winding
+
+<img width="640" height="480" alt="image (1)" src="https://github.com/user-attachments/assets/88df8ae3-0a75-47ad-bc71-f652acf1d465" />
+
