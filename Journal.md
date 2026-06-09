@@ -16,3 +16,4 @@ Day 2:
     2) Shaft sits flush with body 
     3) Coils are one solid piece
 
+  <img width="1920" height="1040" alt="Steper motor _ Part Studio 1 - Google Chrome 6_9_2026 1_34_14 PM" src="https://github.com/user-attachments/assets/111bdac0-0556-4310-8629-d435ccdb0d63" />
