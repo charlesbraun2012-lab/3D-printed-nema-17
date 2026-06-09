@@ -15,5 +15,11 @@ Day 2:
     1) 4 todal part
     2) Shaft sits flush with body 
     3) Coils are one solid piece
+    4) Windings labled
 
   <img width="1920" height="1040" alt="Steper motor _ Part Studio 1 - Google Chrome 6_9_2026 1_34_14 PM" src="https://github.com/user-attachments/assets/111bdac0-0556-4310-8629-d435ccdb0d63" />
+
+Day 3:
+  Printed V1 and made changes for V2
+  
+    1) <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/9aa5ebb0-f602-4de4-94a2-1a938ddbd209" />
