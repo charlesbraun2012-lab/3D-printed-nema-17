@@ -52,4 +52,9 @@ Day 4: ~ 3 hours
   <img width="1600" height="867" alt="image (3)" src="https://github.com/user-attachments/assets/904a1bf3-3f2d-4f51-b115-446e7d236516" />
   <img width="1600" height="867" alt="image (2)" src="https://github.com/user-attachments/assets/54d7d30d-a2d3-4f8d-82a8-499f434ddf8e" />
 
+Day 5: ~ 1 hour
+  Made BOM and GitHub repo
 
+    BOM:
+    Ferramagnetic filament: Protopasta Ferromagnetic Iron PLA 3D Printer Filament 45% iron content ~ $34 (AMAZON)
+    Wire: 26 AWG - 1 lb (1263 feet) 99.9% Pure Copper Wire ~ $30 (AMAZON)
